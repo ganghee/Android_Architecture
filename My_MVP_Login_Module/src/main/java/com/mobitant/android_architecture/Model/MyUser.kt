@@ -5,4 +5,3 @@ interface MyUser {
     val password:String
     fun isDataValid():Int
 }
-
